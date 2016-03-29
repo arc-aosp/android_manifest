@@ -1,0 +1,10 @@
+Arc Open Source Project
+=======================
+
+Getting Started
+---------------
+repo init -u git://github.com/arc-aosp/android_manifest.git -b arc-1.0
+
+Then to sync up:
+
+    repo sync
