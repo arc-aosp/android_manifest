@@ -23,7 +23,7 @@
   <project path="art" name="arc-aosp/art" groups="pdk"  />
   <project path="bionic" name="arc-aosp/bionic" groups="pdk"  />
   <project path="bootable/recovery" name="arc-aosp/bootable_recovery" groups="pdk"  />
-  <project path="bootable/recovery-exodus" name="arc-aosp/bootable_recovery-arc" groups="pdk"  />
+  <project path="bootable/recovery-arc" name="arc-aosp/bootable_recovery-arc" groups="pdk"  />
   <project path="build" name="arc-aosp/build" groups="pdk"  >
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
